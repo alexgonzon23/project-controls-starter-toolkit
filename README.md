@@ -4,7 +4,7 @@ A practical PM operations toolkit designed to help early-career project professi
 
 Built to bridge the gap between PM certifications/theory and practical project coordination workflows commonly used in PMO, infrastructure, mining, energy, and industrial project environments.
 
-3.Who it is for
+Who it is for
 
 -PM students
 
@@ -16,7 +16,7 @@ Built to bridge the gap between PM certifications/theory and practical project c
 
 -junior PM professionals
 
-4. What is included
+What is included
 
 -RAID logs
 
